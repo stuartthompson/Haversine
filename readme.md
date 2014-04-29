@@ -1,4 +1,5 @@
-# Haversine Formula - Distance between points 
+# Haversine Formula
+### Distance between points 
 This program can be used to calculate the distance between two points on the 
 Earth (latitude, longitude) using the Haversine formula for distance over a 
 sphere. EStimations are made as to the radius of the Earth, which is not a 
@@ -7,7 +8,7 @@ perfect sphere.
 Usage: haversine lat1 lon1 lat2 lon2
 
 
-## LICENSE
+### LICENSE
 Copyright (c) 2014, Stuart Thompson
 All rights reserved.
 
